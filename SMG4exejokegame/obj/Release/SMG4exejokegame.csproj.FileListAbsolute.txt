@@ -1,0 +1,15 @@
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\bin\Release\SMG4exejokegame.exe.config
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\bin\Release\SMG4exejokegame.exe
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\bin\Release\SMG4exejokegame.pdb
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.csproj.AssemblyReference.cache
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.beep.resources
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.Form1.resources
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.Form2.resources
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.player1.resources
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.player2.resources
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.play4.resources
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.Properties.Resources.resources
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.csproj.GenerateResource.cache
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.csproj.CoreCompileInputs.cache
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.exe
+C:\Users\Мастер\source\repos\SMG4exejokegame\SMG4exejokegame\obj\Release\SMG4exejokegame.pdb
